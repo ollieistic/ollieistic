@@ -1,7 +1,5 @@
 ## 👋 Yo, I'm Ollieistic.
 
-** Programmer / Game Developer / Content Creator**
-
 I have always hade a passion for creating. A looooong time ago, that passion turned into programming, development and content. Programming is my number one favorite.
 As of right now, I have nothing to showcase here. 
 
@@ -21,6 +19,9 @@ As of right now, I have nothing to showcase here.
 ## 📜 Programming Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 #
 
