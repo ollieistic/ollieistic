@@ -33,3 +33,6 @@ As of right now, I have nothing to showcase here.
 * [Website](https://ollieistic.com)
 * [YouTube](https://youtube.com/@Ollieistic)
 * [Twitter](https://x.com/Ollieistic)
+
+## 📊 Statistics
+![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
