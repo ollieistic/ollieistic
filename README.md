@@ -23,6 +23,8 @@ As of right now, I have nothing to showcase here.
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
+---
+
 ## 💼 Contact Me
 * For business inquires, send an e-mail to: business@ollieistic.com
 * For other inquires, message @Ollieistic on X (Twitter).
