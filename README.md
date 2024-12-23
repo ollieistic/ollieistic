@@ -1,7 +1,7 @@
 ## 👋 Yo, I'm Ollieistic.
 
-I have always hade a passion for creating. A looooong time ago, that passion turned into programming, development and content. Programming is my number one favorite.
-As of right now, I have nothing to showcase here. 
+I have always hade a passion for creating. A looooong time ago, that passion turned into programming and developing.
+As of right now, I have nothing to showcase here, so yeah.
 
    <p align="left">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
