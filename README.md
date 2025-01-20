@@ -31,9 +31,9 @@ As of right now, I have nothing to showcase here, so yeah.
 * For other inquires, message @Ollieistic on X (Twitter).
 
 ## 🎬 My Socials
-* [Website](https://ollieistic.com)
 * [YouTube](https://youtube.com/@Ollieistic)
 * [Twitter](https://x.com/Ollieistic)
+* [Bio](https://guns.lol/ollieistic)
 
 ## 📊 Statistics
 ![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
