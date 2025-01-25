@@ -1,7 +1,6 @@
 ## 👋 Yo, I'm Ollieistic.
 
-I have always hade a passion for creating. A looooong time ago, that passion turned into programming and developing.
-As of right now, I have nothing to showcase here, so yeah.
+I'm a former ROBLOX developer (didn't make it lol) and currently a programmer and game modder. I have always had passion for desinging and creating things. Check out my repositories for some cool stuff!
 
    <p align="left">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
