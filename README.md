@@ -18,6 +18,7 @@ I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` a
 ## 📜 Languages
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="LuaU" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:15px;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
