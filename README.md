@@ -1,6 +1,6 @@
 ## 👋 Yo, I'm Ollieistic.
 
-I'm a former ROBLOX developer (didn't make it lol) and currently a programmer and game modder. I have always had passion for desinging and creating things. Check out my repositories for some cool stuff!
+I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` and `Unity Developer` (also Gorilla Tag modder). Thank you for visiting my profile, make sure to check out my repositories.
 
    <p align="left">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
