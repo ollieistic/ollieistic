@@ -32,8 +32,7 @@ I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` a
 ## 🎬 My Socials
 * [YouTube](https://youtube.com/@Ollieistic)
 * [Twitter](https://x.com/Ollieistic)
-* [Bio](https://guns.lol/ollieistic)
+* [Cool Bio](https://guns.lol/ollieistic)
 
 ## 📊 Statistics
 ![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
-![Most Used Languages](https://camo.githubusercontent.com/d7a41e06a77431fe296c9c559e79d750c083585fc67ad85f28485048556168ea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6969646b2d7468652d61637475616c2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
