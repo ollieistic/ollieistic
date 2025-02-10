@@ -33,4 +33,4 @@ I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` a
 ![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
 
 ## 🐍 Snake
-![Snake](https://github.com/ollieistic/ollieistic/blob/output/github-contribution-grid-snake.gif)
+![Snake](https://raw.githubusercontent.com/ollieistic/ollieistic/blob/output/github-contribution-grid-snake.gif)
