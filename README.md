@@ -1,4 +1,4 @@
-66## 👋 Yo, I'm Ollieistic.
+## 👋 Yo, I'm Ollieistic.
 
 I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` and `Unity Developer`. I also enjoy modding everything I possibly can. Thank you for visiting my profile, make sure to check out my repositories below!
 
