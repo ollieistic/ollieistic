@@ -1,4 +1,4 @@
-## 👋 Yo, I'm Ollieistic.
+66## 👋 Yo, I'm Ollieistic.
 
 I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` and `Unity Developer`. I also enjoy modding everything I possibly can. Thank you for visiting my profile, make sure to check out my repositories below!
 
@@ -31,6 +31,3 @@ I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` a
 
 ## 📊 Statistics
 ![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
-
-## 🐍 Snake
-![Snake](https://raw.githubusercontent.com/ollieistic/ollieistic/blob/output/github-contribution-grid-snake.gif)
