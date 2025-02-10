@@ -29,10 +29,5 @@ I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer` a
 * For business inquires, send an e-mail to: business@ollieistic.com
 * For other inquires, message @Ollieistic on X (Twitter).
 
-## 🎬 My Socials
-* [YouTube](https://youtube.com/@Ollieistic)
-* [Twitter](https://x.com/Ollieistic)
-* [Cool Bio](https://guns.lol/ollieistic)
-
 ## 📊 Statistics
 ![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
