@@ -28,4 +28,4 @@ I'm a former ROBLOX developer (didn't make it) and currently a programmer focusi
 * For other inquires, contact me on Discord (@ollieistic).
 
 ## 📊 Statistics
-![Ollie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
+![Ollieistics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
