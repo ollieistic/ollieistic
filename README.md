@@ -1,6 +1,6 @@
 ## 👋 Yo, I'm Ollieistic.
 
-I'm a `Former ROBLOX Developer` (didn't make it), and currently a `Programmer`. At the moment I am focusing on Python. I also enjoy modding everything I possibly can. Thank you for visiting my profile, make sure to check out my repositories below!
+I'm a former ROBLOX Developer (didn't make it) and currently a programmer focusing on Python. I love to make small programs that makes your life easier. Make sure to check out my repositories below!
 
    <p align="center">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
