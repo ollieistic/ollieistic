@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="center">made by me</h3>
+<h3 align="center">my stuff</h3>
 <p align="center">  
   ~ <a href="https://discord.gg/np4YQzbHcz">community</a> | <a href="https://github.com/ollieistic/NextHook">nexthook</a> ~
 </p>
