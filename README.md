@@ -23,9 +23,5 @@ I'm a former ROBLOX developer (didn't make it) and currently a programmer focusi
 <img align="left" alt"Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
 <br />
 
-## 💼 Contact Me
-* For business inquires, send an e-mail to: business@ollieistic.com
-* For other inquires, contact me on Discord (@ollieistic).
-
 ## 📊 Statistics
 ![Ollieistics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
