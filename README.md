@@ -9,9 +9,9 @@
       <a href="https://www.youtube.com/@Ollieistic">
          <img alt="YouTube Views" title="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCt5wTmxBlaUpRQD32AwO7kw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/Ollieistic?tab=followers">
-         <img alt="GitHub Followers" title="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/Ollieistic?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="GitHub Followers" title="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/ollieistic?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Ollieistic?tab=repositories&sort=stargazers">
-         <img alt="Total Stars" title="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/Ollieistic?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="Total Stars" title="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/ollieistic?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 <p align="center">my website: https://ollieistic.com</p>
