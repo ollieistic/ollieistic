@@ -1,6 +1,7 @@
-## 👋 Yo, I'm Ollieistic.
+<h1 align="center">sup, im ollieistic</h1>
 
-I'm a former ROBLOX developer (didn't make it) and currently a programmer focusing on Python. I love to make small programs that makes your life easier. Thanks for visiting my GitHub page. Make sure to check out my repositories below!
+<p align="center">im a 14 year old tech enthusiast from sweden 🇸🇪</p>
+<p align="center">i also love creating stuff, modding games and programming</p>
 
    <p align="center">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
@@ -13,15 +14,38 @@ I'm a former ROBLOX developer (didn't make it) and currently a programmer focusi
          <img alt="Total Stars" title="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/Ollieistic?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<p align="center">my website: https://ollieistic.com</p>
+
 ---
 
-## 📜 Languages
+<h3 align="center">made by me</h3>
+<p align="center">  
+  ~ <a href="https://discord.gg/np4YQzbHcz">community</a> | <a href="https://github.com/ollieistic/NextHook">nexthook</a> ~
+</p>
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img align="left" alt"Lua" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" />
-<br />
+<h3 align="center">my socials</h3>
+<p align="center">
+  ~ <a href="https://youtube.com/@ollieistic">youtube</a> | <a href="https://x.com/ollieistic">twitter</a> | <a href="https://ko-fi.com/ollieistic">ko-fi</a> | <a href="https://guns.lol/ollieistic">bio</a> ~
+</p>
 
-## 📊 Statistics
-![Ollieistics's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox)
+---
+
+<h3 align="center">languages i kinda know</h3>
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
+  </a>  
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
+  </a>  
+</p>
+
+---
+
+<h3 align="center">statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox" alt="ollieistic's stats" />
+</p>
