@@ -14,16 +14,17 @@
          <img alt="total stars" title="total stars" src="https://custom-icon-badges.demolab.com/github/stars/ollieistic?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<p align="center">my website: https://ollieistic.com</p>
+<p align="center">website: https://ollieistic.com</p>
+<p align="center">community: https://discord.gg/2n9g3b72dJ</p>
 
 ---
 
-<h3 align="center">my stuff</h3>
+<h3 align="center">projects</h3>
 <p align="center">  
-  ~ <a href="https://discord.gg/np4YQzbHcz">community</a> | <a href="https://github.com/ollieistic/NextHook">nexthook</a> ~
+  ~ <a href="https://github.com/ollieistic/NextHook">nexthook</a> ~
 </p>
 
-<h3 align="center">my socials</h3>
+<h3 align="center">socials</h3>
 <p align="center">
   ~ <a href="https://youtube.com/@ollieistic">youtube</a> | <a href="https://x.com/ollieistic">twitter</a> | <a href="https://ko-fi.com/ollieistic">ko-fi</a> | <a href="https://guns.lol/ollieistic">bio</a> ~
 </p>
