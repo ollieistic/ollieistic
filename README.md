@@ -1,7 +1,7 @@
 <h1 align="center">sup, im ollieistic</h1>
 
-<p align="center">im a 14 year old tech enthusiast from sweden 🇸🇪</p>
-<p align="center">i also love creating stuff, modding games and programming</p>
+<p align="center">im a 14 year old developer from sweden 🇸🇪</p>
+<p align="center">i also love creating stuff and modding games</p>
 
    <p align="center">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
