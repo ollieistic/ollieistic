@@ -1,7 +1,7 @@
 <h1 align="center">sup, im ollieistic</h1>
 
-<p align="center">im a 14 year old developer from sweden 🇸🇪</p>
-<p align="center">i also love creating stuff and modding games</p>
+<p align="center">im a 14 year old programmer from sweden 🇸🇪</p>
+<p align="center">i also enjoy modding and learning new things</p>
 
    <p align="center">
       <a href="https://www.youtube.com/@Ollieistic?sub_confirmation=1">
@@ -34,4 +34,8 @@
 <h3 align="center">statistics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ollieistic&show_icons=true&theme=gruvbox" alt="ollieistic's stats" />
+</p>
+
+<p align="center">
+   <sub>i use arch btw</sub>
 </p>
