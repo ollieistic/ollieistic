@@ -26,7 +26,7 @@
 
 <h3 align="center">socials</h3>
 <p align="center">
-  ~ <a href="https://youtube.com/@ollieistic">youtube</a> | <a href="https://x.com/ollieistic">twitter</a> | <a href="https://ko-fi.com/ollieistic">ko-fi</a> | <a href="https://guns.lol/ollieistic">bio</a> ~
+  ~ <a href="https://youtube.com/@ollieistic">youtube</a> | <a href="https://x.com/ollieistic">twitter</a> | <a href="https://bsky.app/profile/ollieistic.com">bluesky</a> ~
 </p>
 
 ---
