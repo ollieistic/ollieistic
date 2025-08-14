@@ -21,7 +21,7 @@
 
 <h3 align="center">projects</h3>
 <p align="center">  
-  ~ <a href="https://github.com/ollieistic/downloader-cli">downloadear-cli</a> ~
+  ~ <a href="https://github.com/ollieistic/downloader-cli">downloader-cli</a> ~
 </p>
 
 <h3 align="center">socials</h3>
